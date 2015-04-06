@@ -1,0 +1,3 @@
+To run the program:
+
+1. Create a Java project on Eclipse. Run the Run.java file which contains the main method. In the program arguments, pass the file path from which song data is to be loaded. Example: Run "File path name"
